@@ -15,6 +15,7 @@
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "express": "~4.16.1",
+    "express-async-handler": "^1.2.0",
     "express-rate-limit": "^6.7.0",
     "express-validator": "^7.0.0",
     "helmet": "^6.1.5",
